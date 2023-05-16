@@ -5,6 +5,7 @@ An application that uses the location and weather API to represent weather condi
 <p float="left">
 <img src="Images/1.jpg"  width="189" height="409"> 
 <img src="Images/2.jpg"  width="189" height="409"> 
+<img src="Images/3.gif"  width="189" height="409"> 
 </p>
 
 
