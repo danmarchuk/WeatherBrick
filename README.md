@@ -1,6 +1,12 @@
 # Weather Brick Application
 
 An application that uses the location and weather API to represent weather conditions with a unique, fun, and intuitive interface: the weather brick on a rope.
+-----------------------------------------------------
+<p float="left">
+<img src="Images/1.jpg"  width="189" height="409"> 
+<img src="Images/2.jpg"  width="189" height="409"> 
+</p>
+
 
 ## Table of Contents
 
